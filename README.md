@@ -17,7 +17,7 @@ The system demonstrates how LLMs + semantic search can be used to match job requ
 🔄 System Flow
 1️⃣ Career Page URL Input
 
-Users provide a company’s careers page URL (e.g., Nike, Amazon, etc.).
+Users provide a company’s careers page URL (e.g., Puch ai, Amazon, etc.).
 
 2️⃣ Job Extraction (LLM-Powered)
 
@@ -27,8 +27,11 @@ Job postings are extracted into a structured JSON format:
 
 {
   "job_title": "",
+  
   "skills": [],
+  
   "experience": "",
+  
   "job_description": ""
 }
 
@@ -80,6 +83,7 @@ In a real-world setup, these dummy links would be replaced with:
 This implementation demonstrates how relevant portfolio links can be semantically matched with job descriptions and dynamically inserted into cold emails.
 
 📊 Results:
+
 <img width="1920" height="1020" alt="Screenshot 2026-01-08 132416" src="https://github.com/user-attachments/assets/4748cba6-09b2-40e8-a162-d134f00d075d" />
 
 
