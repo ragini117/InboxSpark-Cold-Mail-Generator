@@ -57,7 +57,7 @@ Framework: LangChain
 
 Frontend: Streamlit
 
-Vector Database: FAISS / Chroma (or equivalent)
+Vector Database:  Chromadb 
 
 Data Source: CSV-based portfolio links
 
