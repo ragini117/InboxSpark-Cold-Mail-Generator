@@ -5,16 +5,25 @@ It automates the process of extracting job requirements from company career page
 The system demonstrates how LLMs + semantic search can be used to match job requirements with relevant portfolio links and dynamically craft targeted emails.
 
 ✨ Features
+
 🔗 Accepts a company careers page URL
+
 🧠 LLM-powered job extraction from unstructured web pages
+
 📄 Structured job data extraction in JSON format
+
 🧩 Vector database for semantic similarity search
+
 🔍 Intelligent retrieval of relevant portfolio/project links
+
 ✉️ Personalized cold email generation from a business development perspective
+
 🖥️ Interactive Streamlit UI
 
 🏗️ Architecture & Workflow Overview
+
 🔄 System Flow
+
 1️⃣ Career Page URL Input
 
 Users provide a company’s careers page URL (e.g., Puch ai, Amazon, etc.).
